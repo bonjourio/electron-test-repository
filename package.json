@@ -1,0 +1,22 @@
+{
+  "name": "electron-test-repository",
+  "version": "1.0.0",
+  "description": "This project aims to test new version of electron before updating the main project",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonjourio/electron-test-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonjourio/electron-test-repository/issues"
+  },
+  "homepage": "https://github.com/bonjourio/electron-test-repository#readme",
+  "dependencies": {
+    "electron": "^7.1.0"
+  }
+}
