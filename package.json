@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bonjourio/electron-test-repository#readme",
   "dependencies": {
-    "electron": "^7.1.0"
+    "electron": "^7.2.4"
   }
 }
